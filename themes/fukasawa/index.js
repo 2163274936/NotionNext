@@ -225,7 +225,7 @@ const Layout404 = props => {
           // console.log('找不到页面', router.asPath)
         })
       }
-    }, 3000)
+    }, 1000)
   }, [])
 
   return <>
