@@ -15,7 +15,7 @@ const CONFIG = {
 
   NEXT_PREVIEW_TAG_COUNT: 16, // 首页最多展示的标签数量，0为不限制
   NEXT_PREVIEW_CATEGORY_COUNT: 16, // 首页最多展示的分类数量，0为不限制
-  NEXT_POST_HEADER_IMAGE_VISIBLE: true, // 文章详情页是否显示封面图
+  NEXT_POST_HEADER_IMAGE_VISIBLE: false, // 文章详情页是否显示封面图
 
   // 右侧组件
   NEXT_RIGHT_BAR: true, // 是否显示右侧栏
